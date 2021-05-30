@@ -1,6 +1,6 @@
 # Chat Application
 
-![Chat Application](https://unichat-2f256.web.app/)
+## Live App: [Chat Application](https://unichat-2f256.web.app/)
 
 ## Introduction
 
