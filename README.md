@@ -4,8 +4,8 @@
 
 ## Introduction
 
-This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application
+In this app project, there are social authentication including Google using Firebase, online statuses, great design, and functionality, image support, sound notifications, the ability to create multiple rooms, and much more.
 
-### Bonus - E-mail notifications
+### Technology Used:
 
-If you want to upgrade this chat application even further than what is shown in the video, you can add e-mail notifications. More info on https://chatengine.io/docs/email_notifications.
+Routing, Firebase Social Login, Firebase Google Login, React Context API, Chat Engine, REST API's, environment variables, and Firebase Hosting!
