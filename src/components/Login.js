@@ -13,7 +13,7 @@ const Login = () => {
   return (
     <div id="login-page">
       <div id="login-card">
-        <h2>Welcome to Unichat</h2>
+        <h2>Welcome To Chat App</h2>
         <div className="login-button google" onClick={handleSignIn}>
           <GoogleOutlined /> Sign In With Google
         </div>
